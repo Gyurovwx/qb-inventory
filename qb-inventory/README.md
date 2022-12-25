@@ -27,12 +27,12 @@
 - [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
 
 ## Features
-- Item crafting
-- Weapon attachment crafting
-- Stashes (Personal and/or Shared)
-- Vehicle Trunk & Glovebox
-- Weapon serial number
-- Shops
+- Крафтване на предмети 
+- Крафтване на attachment-и
+- Шкафове
+- Жабки / Багажници
+- Серийни номера на оръжията
+- Магазини
 - Item Drops
 
 ## Installation
